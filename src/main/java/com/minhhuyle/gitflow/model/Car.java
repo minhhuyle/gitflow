@@ -5,4 +5,14 @@ public class Car extends Vehicule{
 
         System.out.println("Car run");
     }
+
+    public void stop() {
+
+        System.out.println("Car stop");
+    }
+
+    public void start() {
+
+        System.out.println("Car Start");
+    }
 }
